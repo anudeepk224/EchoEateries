@@ -1,0 +1,41 @@
+.restrauHeading{
+    font-weight: bolder;
+    font-size : 48px;
+    margin-bottom: -1%;
+}
+.topSection{
+    margin-left: 10%;
+    margin-top: 2%;
+    border-bottom: 1px solid #e6e6e6;
+    padding-bottom: 2%;
+    width: 80%;
+}
+.cusine {
+    margin-top: -1%;
+    color: grey;
+}
+.reviewsRating{
+ margin-left: 1%;
+}
+.writeReview {
+    width: 100%;
+    height: 130%;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.dishes{ 
+    /* width: 70%; */
+    margin-top: 10%;
+    margin-left: 30%;
+    /* overflow-y: scroll; */
+
+}
+#leftpart .ant-col {
+    margin-left: 10%
+}
+.col1 {
+    height: 100%;
+    width: 50%;
+    background-color: pink;
+    overflow: auto;
+}

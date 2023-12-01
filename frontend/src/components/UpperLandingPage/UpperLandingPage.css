@@ -1,0 +1,66 @@
+#upperHalf{
+    background-image: url("https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_large_assets/507de6a720e4/assets/img/home/hero_photos/pkwm_5P7XMoIXHOzQR0Y7A.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 20%;
+}
+
+#navbar .ant-menu-horizontal {
+    background-color: transparent;
+    border-bottom: 0px ;
+    color: white;
+}
+#navbar .ant-menu-item-active{
+    color: white;
+    border-bottom-color: white;
+}
+.nav{
+    margin-top: -31%;
+    margin-left: -7%;
+}
+.logo {
+    background-image: url("https://s3-media0.fl.yelpcdn.com/assets/public/default@2x.yji-3e0b6fdd67576efda4390daddc35c8f1.png");
+    padding: 10%;
+    background-repeat: no-repeat;
+    margin-left: 45%;
+    background-size: 30%;
+    margin-top: 8%;
+}
+.search {
+    background-color: white;
+    margin-top: -4%;
+    margin-left: 7%;
+}
+#find {
+    width: 47%;
+}
+#near {
+    width:47%
+}
+#searchRow{
+    width: 101%;
+}
+
+#searchBtn .ant-btn{
+    background-color: red;
+    color: white;
+    border: red;
+}
+.delivery {
+    margin-left: 230%;
+}
+
+.homeServices{
+    margin-left: 50%;
+}
+.restraurants{
+    margin-left: 100%;
+}
+.blackOwned{
+    margin-left: 200%;
+}
+
+.services{
+    margin-left: 20%;
+    margin-top: 1%;
+}

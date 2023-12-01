@@ -1,0 +1,20 @@
+.navigation .ant-menu-horizontal{
+    background-color: transparent;
+    border-bottom: 0px ;
+    color: white;
+}
+.navigation .ant-menu-item-active{
+    color: white;
+    border-bottom-color: white;
+}
+.navigation {
+    width: 60%;
+    margin-left: 16%;
+}
+.yelpLogo {
+    padding: 10%;
+    background-repeat: no-repeat ;
+    margin-left: 45%;
+    background-size: 20%;
+    margin-top: 8%;
+}

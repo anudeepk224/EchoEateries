@@ -1,0 +1,24 @@
+.linkToProfile{
+    margin-left: 15%;
+    margin-top: 1%;
+    padding-bottom: 1%;
+    width: 65%;
+    border-bottom: 1px solid #e6e6e6;
+}
+.outerUploadDiv {
+    /* width: 12%;
+    margin: 0 auto; */
+    /* width: 100%;
+    text-align: center; */
+    /* margin-top: 15%; */
+    border : 1px dashed;
+    width: 65%;
+    margin-left: 15%;
+    padding-left: 26%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+.uploadFile {
+    /* display: inline-block;
+    margin: 0 auto; */
+}

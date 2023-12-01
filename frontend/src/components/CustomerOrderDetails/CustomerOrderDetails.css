@@ -1,0 +1,11 @@
+.orderDetails{
+    margin-top: 2%;
+}
+#orderDetailsDiv h3{
+    font-weight: 'bolder';
+    color : gray
+}
+#orderDetailsDiv h2{
+    font-weight: 'bolder';
+    color : gray
+}

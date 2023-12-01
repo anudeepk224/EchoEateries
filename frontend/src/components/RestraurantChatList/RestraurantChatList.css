@@ -1,0 +1,12 @@
+.conversation-list {
+  display: flex;
+  flex-direction: column;
+}
+.titleDiv{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin: 0 auto;
+  background-color: #d32323;
+  /* text-align: center; */
+  border-bottom: 1px solid lightgrey;
+}

@@ -1,0 +1,62 @@
+.middleBar{
+    background: #f5f5f5;
+    position: relative;
+    padding-top: 15%;
+    border-bottom: 1px solid #e6e6e6;
+    z-index: 0;
+}
+.imageBox {
+    color: #0073bb;
+    height: 250px;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: middle;
+    max-width: 100%;
+    max-height: 100%;
+}
+.imageDiv{
+    height: 217px;
+    width: 217px;
+    border: 1px solid #ccc;
+    margin-left: 15%;
+    margin-top: -12%;
+}
+.name{
+    margin-top: -14%;
+    /* margin-left: 32%; */
+}
+.userDetails{
+    margin-left: 32%
+}
+.location{
+    margin-top: -1%;
+}
+.stats{
+    margin-top: 2%;
+}
+.actions{
+    margin-left: 52%;
+    margin-top: 6%;
+    border-left: 1px solid lightgray ;
+}
+.addPic{
+    margin-top: -40%;
+    margin-left: 15%;
+}
+.updateProfile {
+    margin-top:2%;
+    margin-left: 15%;
+}
+.partition {
+    border-left: 1px solid grey ;
+}
+.footer{
+    border-top: 1px solid black;
+    background-repeat: no-repeat;
+    background-image: url(https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/ce4d102c522c/assets/img/structural/footer_cityscape@2x.png);
+    padding: 10%;
+}

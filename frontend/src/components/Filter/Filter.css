@@ -1,0 +1,10 @@
+.deliveryTitle{
+    font-weight: "bolder";
+    color : grey;
+    width: 120%;
+}
+.deliveryList {
+    list-style-type: none;
+    margin-left: -20%;
+    width: 150%;
+}

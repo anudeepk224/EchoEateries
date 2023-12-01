@@ -1,0 +1,14 @@
+.converstationTitle{
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 1%;
+    background-color: #d32323;
+    padding-top: 1%;
+    color: white;
+}
+
+.inputDiv {
+    position: fixed;
+    bottom: 0;
+    width: 76%;
+}

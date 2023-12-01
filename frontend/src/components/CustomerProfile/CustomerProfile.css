@@ -1,0 +1,15 @@
+.yelpSymbol {
+    width: 140%;
+    margin-top: 44%;
+    margin-left: 40%;
+}
+.searchCol {
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.middleBar{
+    background: #f5f5f5;
+    position: relative;
+    padding-top: 15%;
+    border-bottom: 1px solid #e6e6e6;
+}
